@@ -20,9 +20,9 @@ Repository for practicing markdown
 
 `console.log("hello world!")`
 
--[x] Write_read me repo
--[] Update Repository
--[] Fix bug
+- [x] Write_read me repo
+- [] Update Repository
+- [] Fix bug
 
 That is funny! :joy: :joy: :joy: :joy: :joy: :joy: :joy:
 
