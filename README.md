@@ -18,4 +18,9 @@ Repository for practicing markdown
 
 [This link will take you to old mate Google](https://www.google.com/)
 
-`console.log"hello world!"`
+`console.log("hello world!")`
+
+-[x] Write_read me repo
+-[] Update Repository
+-[] Fix bug
+
