@@ -6,4 +6,4 @@ Repository for practicing markdown
 
 ### Welcome to SDV
 
-**Iain Henerson**
+**Iain Henderson**
