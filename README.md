@@ -9,9 +9,9 @@ Repository for practicing markdown
 **Iain Henderson**
 
 1. first item
-2. second item
+2. second **item**
 3. third item
 
 - item 1
-- item 2
+- # item 2
 - item 3
