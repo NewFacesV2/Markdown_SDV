@@ -17,3 +17,5 @@ Repository for practicing markdown
 - item 3
 
 [This link will take you to old mate Google](https://www.google.com/)
+
+`console.log"hello world!"`
