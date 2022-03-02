@@ -24,6 +24,6 @@ Repository for practicing markdown
 -[] Update Repository
 -[] Fix bug
 
-That is funny! :joy:
+That is funny! :joy: :joy: :joy: :joy: :joy: :joy: :joy:
 
 
